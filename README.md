@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first repository
 <br>
-author avi soni
+author- avi soni
